@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Basta"
+author: ""
 categories: journal
-tags: [documentation,sample]
-image: cutting.jpg
+tags: [minimalismo,esencial,materialismo]
+
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+
+
+Eh vivido en otros paises donde tuve que mudarme varias veces en poco tiempo. También lo tuve que hacer dentro de mi país natal y aunque pueda contarlo con los dedos de las manos ya no quiero cargar con tanto.
+
+**Quiero quedarme con lo esencial**, con lo que uso a diario. Cargué con adornos sin utilidad más que la de ser un pequeño trofeo como recordatorio de lo vivido.
+
+Atiborré las lacenas con platos, vasos, copas y utensillos de cocinas de todo tipo y me di cuenta que no importa el recipiente que contenga el alimento.
+
+**He decididio decir basta**. No quiero comprar más nada. Ahora que lo observo veo que es dinero tirado a la basura. Que puedo vivir con menos y a aún así sentir que no me falta nada.
+
