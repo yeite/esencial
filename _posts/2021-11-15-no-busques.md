@@ -7,9 +7,9 @@ tags: [libros]
 
 ---
 
+![Image](http://readersbreak.com/wp-content/uploads/2018/01/Covers-71-Siddhartha-new-header.png)
 
-
--Habló Siddharta:
+-Habló Siddhartha:
 
 -¿Qué puedo decirte, venerable amigo? ¿Quizá que buscas demasiado? ¿Qué por tanto buscar no encuentras nada?
 
