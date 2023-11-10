@@ -13,5 +13,5 @@ El anhelo de felicidad ha llegado a un punto que estamos buscando constantemente
 
 La conclusión de este ensayo es que la razón por la que somos tan miserables no es otra que porque intentamos con todas nuestras fuerzas no ser miserables. Solo sabemos querer, porque solo queremos más. 
 
-Visto en [Cerebros malcriados: cómo caemos en la infelicidad por intentar no caer en la infelicidad](https://www.jotdown.es/2022/04/cerebros-malcriados-infelicidad/)
+*Visto en* [Cerebros malcriados: cómo caemos en la infelicidad por intentar no caer en la infelicidad](https://www.jotdown.es/2022/04/cerebros-malcriados-infelicidad/)
 

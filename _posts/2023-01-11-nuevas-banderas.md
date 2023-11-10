@@ -11,4 +11,4 @@ Cobijarse en todos estos nuevos ideales a los que tienes derecho, esas ayudas qu
 
 Tener espíritu crítico no significa estar enfadado y protestando, se trata de cuestionarse las cosas para encontrar tu propia visión. Es decir, ocurre en tu cabeza, no en tus redes. Pereza.
 
-Visto en [En el ojo ajeno: El humanismo barato](https://www.yorokobu.es/el-humanismo-barato/)
+*Visto en* [En el ojo ajeno: El humanismo barato](https://www.yorokobu.es/el-humanismo-barato/)
