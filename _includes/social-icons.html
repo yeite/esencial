@@ -5,6 +5,10 @@
   {% else %}
     <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% endif %}
+
+  {% if first_char == 'h' %}
+  <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
+{% endif %}
 {% endfor %}
 
 
