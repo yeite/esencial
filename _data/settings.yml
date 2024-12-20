@@ -20,8 +20,9 @@ social:
 #- {icon: 'rss-square', link: '/rss-feed.xml'}
 
 - {icon: 'rss-square', link: '/feed.xml'}
-- {icon: 'envelope',   link: 'mailto:hola@matizeta.com'}
 - {icon: 'mastodon',   link: 'https://masto.es/@matizeta'}
+- {icon: 'envelope',   link: 'mailto:hola@matizeta.com'}
+
 
 
 
