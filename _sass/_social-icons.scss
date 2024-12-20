@@ -27,7 +27,7 @@
   @include social-media-icon($twitter-color, $icon-transition-time);
 }
 
-.fab fa-mastodon {
+.fa-mastodon {
   padding: 5px;
   @include social-media-icon($mastodon-color, $icon-transition-time);
 }
