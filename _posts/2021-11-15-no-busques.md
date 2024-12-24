@@ -7,7 +7,7 @@ tags: [libros]
 
 ---
 
-![Image](http://readersbreak.com/wp-content/uploads/2018/01/Covers-71-Siddhartha-new-header.png)
+![Image](https://i.postimg.cc/4yd5gF8h/Siddhartha-header.png)
 
 -Habló Siddhartha:
 
