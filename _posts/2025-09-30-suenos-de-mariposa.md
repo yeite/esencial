@@ -8,7 +8,7 @@ tags: [poesia]
 
 
 
-![Image](/assets/img/2025-09-30.png)
+![Image](/esencial/assets/img/2025-09-30.png)
 
 <br/>
 
