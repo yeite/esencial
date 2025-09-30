@@ -7,7 +7,7 @@ tags: [libros]
 
 ---
 
-![Image](/assets/img/2021-11-15.jpg)
+![Image](/esencial/assets/img/2021-11-15.jpg)
 
 -Habló Siddhartha:
 
