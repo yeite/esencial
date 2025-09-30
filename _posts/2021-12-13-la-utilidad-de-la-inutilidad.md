@@ -9,7 +9,7 @@ tags: [libros,filosofia]
 
 
 
-![image](https://images.squarespace-cdn.com/content/v1/56447026e4b0a608993ab1eb/1486742277247-IL33R2OLLUZKDM4UWZQV/image-asset.jpeg)
+![Image](/assets/img/2021-12-13.webp)
 
 Ziqi de Nanbo viajaba por las colinas de Shang cuando se encontró con un árbol enorme. Se maravilló de ello, porque los caballos de mil carros podrían haberse refrescado a su sombra. “*¿Qué tipo de árbol es este?” dijo Ziqi. “Debe ser de un material inusualmente fino*”.
 
