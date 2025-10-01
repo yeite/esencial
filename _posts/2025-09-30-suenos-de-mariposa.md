@@ -32,5 +32,5 @@ tags: [poesia]
 
 *soñando que soy un hombre.*
 
-<br/>Autor: Zhuang Zhou (también conocido como Zhuangzi)*
+<br/>Autor: Zhuang Zhou (también conocido como Zhuangzi)
 
