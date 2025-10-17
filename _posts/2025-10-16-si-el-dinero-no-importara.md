@@ -3,7 +3,7 @@ layout: post
 title: "¿Qué harías de tu vida si el dinero no importara?"
 author: ""
 categories: journal
-tags: [filosofía, penamientos]
+tags: [filosofía, pensamientos]
 ---
 
 
