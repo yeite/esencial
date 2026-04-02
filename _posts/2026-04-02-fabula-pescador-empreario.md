@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# La fábula del pescador y el empresario"
+title: "El pescador y el empresario"
 author: ""
 categories: journal
 tags: [fabula]
